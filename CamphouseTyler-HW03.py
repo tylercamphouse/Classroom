@@ -1,3 +1,7 @@
+# Name: Tyler Camphouse
+#Lab Section: 16
+#Submission Date: 11/1/2024
+#Sources, help given to/received from: Python Crash Course, 3rd Edition
 def is_leap_year(year):
   """Checks if a given year is a leap year."""
   if year % 4 == 0 and (year % 100 != 0 or year % 400 == 0):
